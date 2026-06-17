@@ -22,7 +22,7 @@
 
 # 默认设置
 
-	默认IP：192.168.66.1
+	默认IP：192.168.6.1
 	用户名：root
 	密码：password
 	WiFi名称：ImmortalWrt
