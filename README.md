@@ -1,4 +1,4 @@
-# immortalWrt 25.12
+# immortalWrt 25.12.x
 - Cudy TR3000
 - 360T7
 - R3G
@@ -8,9 +8,8 @@
 # Version
 
 	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-	REPO_BRANCH: openwrt-25.12
+	REPO_BRANCH: v25.12.0
   
-
 
 # 默认设置
 
