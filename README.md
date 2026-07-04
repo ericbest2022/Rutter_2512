@@ -1,10 +1,10 @@
 # immortalWrt 25.12.x
 
-- R3G 08
-- MT7981 28
-- TR3000 58
-- 360t7 88
-- 8/M
+	R3G     ⓪
+	MT7981  ②
+	TR3000  ⑤
+	360t7   ⑧
+	8/M
 
 # Version
 
