@@ -1,8 +1,9 @@
 # immortalWrt 25.12.x
-- Cudy TR3000
-- 360T7
-- R3G
 
+- R3G 08-88
+- TR3000 28-108
+- 360t7 58-138
+- MT7981 88-168
 
 
 # Version
