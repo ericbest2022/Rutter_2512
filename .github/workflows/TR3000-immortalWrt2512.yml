@@ -23,7 +23,7 @@ on:
   
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-  REPO_BRANCH: v25.12.1
+  REPO_BRANCH: v25.12.0
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: TR3000-im.config
   DIY_P1_SH: diy-part1.sh
