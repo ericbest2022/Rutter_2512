@@ -10,6 +10,7 @@
 
 	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
 	REPO_BRANCH: v25.12.0
+	REPO_BRANCH: openwrt-25.12
   
 
 # 默认设置
