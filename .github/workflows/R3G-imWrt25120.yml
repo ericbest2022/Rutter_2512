@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: R3G-imWrt25120
+name: R3G-imWrt2512
 
 permissions: write-all
 #开启写权限，防止无法上传到release
@@ -23,7 +23,7 @@ on:
   
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-  REPO_BRANCH: v25.12.0
+  REPO_BRANCH: openwrt-25.12
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: R3G-im.config
   DIY_P1_SH: diy-part1.sh
